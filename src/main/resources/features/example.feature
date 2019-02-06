@@ -1,4 +1,4 @@
-@example
+@regression
 
   Feature: test
     Scenario: test scenario

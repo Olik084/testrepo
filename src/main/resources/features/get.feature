@@ -1,4 +1,4 @@
-@test
+@regression
 
 Feature: Getting a get request
 

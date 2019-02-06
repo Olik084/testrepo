@@ -1,5 +1,4 @@
-# new feature
-# Tags: optional
+@regression
 
 Feature: 404 page
 

@@ -1,5 +1,4 @@
-# new feature
-# Tags: optional
+@regression
 
 Feature: Trying out the list
 

@@ -27,13 +27,13 @@ public class OneAfterAnother {
 
     }
 
-    @And("^I check response time$")
-    public void iCheckResponseTime() {
-        Response resp = get("http://localhost:3000/posts");
-        String data = resp.asString();
-        System.out.println(" Data is "+data);
-        System.out.println("Response time "+resp.getTime());
-    }
+  //  @And("^I check response time$")
+  //  public void iCheckResponseTime() {
+  //      Response resp = get("http://localhost:3000/posts");
+  //      String data = resp.asString();
+  //      System.out.println(" Data is "+data);
+  //      System.out.println("Response time "+resp.getTime());
+  //  }
 
    @And("^I check that post is created$")
    public void iCheckThatPostIsCreated() {

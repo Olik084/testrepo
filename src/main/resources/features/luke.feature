@@ -1,5 +1,4 @@
-# new feature
-# Tags: optional
+@regression
 
 Feature: getting other request
 

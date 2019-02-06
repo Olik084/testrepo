@@ -1,5 +1,4 @@
-# new feature
-# Tags: optional
+@regression
 
 Feature: updating an entry
 

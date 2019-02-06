@@ -1,8 +1,6 @@
-# new feature
-# Tags: optional
+@regression
+Feature: Time of the response
 
-Feature: A description
-
-  Scenario: A scenario
+  Scenario: response time
     Given I get info on the product
     And I check response time

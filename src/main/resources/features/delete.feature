@@ -1,5 +1,4 @@
-# new feature
-# Tags: optional
+@delete
 
 Feature: deleting an entry
 
