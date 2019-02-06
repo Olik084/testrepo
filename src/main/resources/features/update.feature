@@ -1,4 +1,4 @@
-@regression
+
 
 Feature: updating an entry
 
